@@ -1,0 +1,7 @@
+C:\Users\70916680142\Desktop\Projeto_Jogos_API\obj\Debug\net8.0\Jogos_API.csproj.AssemblyReference.cache
+C:\Users\70916680142\Desktop\Projeto_Jogos_API\obj\Debug\net8.0\Jogos_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\70916680142\Desktop\Projeto_Jogos_API\obj\Debug\net8.0\Jogos_API.AssemblyInfoInputs.cache
+C:\Users\70916680142\Desktop\Projeto_Jogos_API\obj\Debug\net8.0\Jogos_API.AssemblyInfo.cs
+C:\Users\70916680142\Desktop\Projeto_Jogos_API\obj\Debug\net8.0\Jogos_API.csproj.CoreCompileInputs.cache
+C:\Users\70916680142\Desktop\Projeto_Jogos_API\obj\Debug\net8.0\Jogos_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\70916680142\Desktop\Projeto_Jogos_API\obj\Debug\net8.0\Jogos_API.MvcApplicationPartsAssemblyInfo.cache
