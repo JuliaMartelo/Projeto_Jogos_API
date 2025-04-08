@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+8swQMlPgd4=",
+  "dgSpecHash": "bXxl3M8rLWE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\Jogos_API.csproj",
+  "projectFilePath": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Jogos_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\70916680142\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\70916680142\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

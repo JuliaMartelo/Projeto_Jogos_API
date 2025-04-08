@@ -14,8 +14,8 @@ namespace Jogos_API.Context
         
         }
 
-        public DbSet<Jogo> jogo { get; set; }
-        public DbSet<Usuario> usuario { get; set; }
+        public DbSet<Jogo> Jogo { get; set; }
+        public DbSet<Usuario> Usuario { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

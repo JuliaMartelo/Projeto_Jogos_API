@@ -32,7 +32,7 @@ namespace Jogos_API.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post (IJogoRepository jogo)
+        public IActionResult Post(Jogo jogo)
         {
             try
             {
@@ -47,7 +47,7 @@ namespace Jogos_API.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult Put(Guid id, IJogoRepository jogo)
+        public IActionResult Put(Guid id, Jogo jogo)
         {
             try
             {

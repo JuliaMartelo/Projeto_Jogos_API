@@ -1,4 +1,4 @@
-﻿using System.Xml.Linq;
+﻿
 using Jogos_API.Context;
 using Jogos_API.Domains;
 using Jogos_API.Interfaces;
@@ -18,7 +18,7 @@ namespace Jogos_API.Repositorys
         {
             try
             {
-                Jogo jogoBuscado = _context.jogo.Find(id)!;
+                Jogo jogoBuscado = _context.Jogo.Find(id)!;
 
                 if (jogoBuscado != null)
                 {
@@ -26,11 +26,11 @@ namespace Jogos_API.Repositorys
                     jogo.Plataforma = jogo.Plataforma;
                 }
 
-                _context.jogo.Update(jogo);
+                _context.Jogo.Update(jogo);
 
                 _context.SaveChanges();
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 throw;
             }
@@ -40,12 +40,13 @@ namespace Jogos_API.Repositorys
         {
             try
             {
-                _context.jogo.Add(jogo);
+                jogo.JogoID = Guid.NewGuid();
+                _context.Jogo.Add(jogo);
                 _context.SaveChanges();
             }
-            catch (Exception ex)
+            catch (Exception )
             {
-                throw new Exception(ex.Message);
+                throw;
             }
         }
 
@@ -53,11 +54,11 @@ namespace Jogos_API.Repositorys
         {
             try
             {
-                Jogo jogoBuscado = _context.jogo.Find(id)!;
+                Jogo jogoBuscado = _context.Jogo.Find(id)!;
 
                 if (jogoBuscado != null)
                 {
-                    _context.jogo.Remove(jogoBuscado);
+                    _context.Jogo.Remove(jogoBuscado);
                 }
                 _context.SaveChanges();
             }
@@ -71,7 +72,7 @@ namespace Jogos_API.Repositorys
         {
             try
             {
-                return _context.jogo.Select(e => new Jogo
+                return _context.Jogo.Select(e => new Jogo
                 {
                     JogoID = e.JogoID,
                     NomeDoJogo = e.NomeDoJogo,

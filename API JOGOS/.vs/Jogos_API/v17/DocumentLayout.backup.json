@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|c:\\users\\70916680142\\desktop\\projeto_jogos_api\\api jogos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|c:\\users\\70916680142\\desktop\\projeto_jogos_api\\api jogos\\repositorys\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|solutionrelative:repositorys\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|c:\\users\\70916680142\\desktop\\projeto_jogos_api\\api jogos\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|solutionrelative:controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|c:\\users\\70916680142\\desktop\\projeto_jogos_api\\api jogos\\contexts\\jogo_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|solutionrelative:contexts\\jogo_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|c:\\users\\70916680142\\desktop\\projeto_jogos_api\\api jogos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|c:\\users\\70916680142\\desktop\\projeto_jogos_api\\api jogos\\repositorys\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D468919D-B679-4149-B530-344D66236678}|Jogos_API.csproj|solutionrelative:repositorys\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Migrations\\20250408115510_Jogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250408115510_Jogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Migrations\\20250408115009_Jogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250408115009_Jogos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:58:43.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250408115510_Jogos.cs",
+              "DocumentMoniker": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Migrations\\20250408115510_Jogos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250408115510_Jogos.cs",
+              "ToolTip": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Migrations\\20250408115510_Jogos.cs",
+              "RelativeToolTip": "Migrations\\20250408115510_Jogos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:55:10.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T11:51:03.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250408115009_Jogos.cs",
+              "DocumentMoniker": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Migrations\\20250408115009_Jogos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250408115009_Jogos.cs",
+              "ToolTip": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Migrations\\20250408115009_Jogos.cs",
+              "RelativeToolTip": "Migrations\\20250408115009_Jogos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:50:09.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Repositorys\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositorys\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Repositorys\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositorys\\UsuarioRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAArwEYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:44:39.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jogo_Context.cs",
+              "DocumentMoniker": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Contexts\\Jogo_Context.cs",
+              "RelativeDocumentMoniker": "Contexts\\Jogo_Context.cs",
+              "ToolTip": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Contexts\\Jogo_Context.cs",
+              "RelativeToolTip": "Contexts\\Jogo_Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:43:52.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JogoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Repositorys\\JogoRepository.cs",
+              "RelativeDocumentMoniker": "Repositorys\\JogoRepository.cs",
+              "ToolTip": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Repositorys\\JogoRepository.cs",
+              "RelativeToolTip": "Repositorys\\JogoRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:31:23.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JogoController.cs",
+              "DocumentMoniker": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Controllers\\JogoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JogoController.cs",
+              "ToolTip": "C:\\Users\\70916680142\\Desktop\\Projeto_Jogos_API\\API JOGOS\\Controllers\\JogoController.cs",
+              "RelativeToolTip": "Controllers\\JogoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:20:10.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
